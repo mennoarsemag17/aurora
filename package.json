@@ -1,0 +1,26 @@
+{
+"name": "aurora-fdj-1",
+"version": "1.0.0",
+"description": " a dynamic platform designed to revolutionize the way users discover and listen to music.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/mennoarsemag17/aurora.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "mennoarsemag17",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
